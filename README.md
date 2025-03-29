@@ -5,14 +5,14 @@
 - <a href="#-objetivo">🎯 Objetivo</a>
 - <a href="#-mockup-da-interface">📱 Mockup da interface</a>
 - <a href="#-diagramas">📈 Diagramas</a>
-
+#
 # 🇯🇵 Público Alvo
 
 O nosso projeto tem como público alvo pessoas que estejam iniciando o processo de aprendizagem da língua Japonesa, juntamente com aqueles que possuem algum tipo de conhecimento e os que já estão em um nível avançado. Além de pessoas interessadas na cultura japonesa e que procuram conhecer mais sobre o idioma. Busca proporcionar um experiência eficiente e eficaz e de maneira gratuita.
 
 # 🎯 Objetivo
 
-Proporcionar um experiência eficiente e eficaz e de maneira gratuita no aprendizado e memorização de Kanjis.
+  Atualmente, são escassas as ferramentas online que proporcionem conhecimento, educação e aprendizagem acerca da língua japonesa e seus kanjis, e quando existem, são limitadas em suas funcionalidades e ferramentas. Portanto, nosso projeto objetiva proporcionar um ambiente educativo, utilizando um aplicativo que utiliza da metodologia de flashcards, para ensinar os kanjis da língua japonesa. Através do aplicativo, os usuários poderão não somente decorar o conteúdo pré-disponível, mas também montar seu próprio baralho de flashcards; desenhar os kanjis que desejam aprender; estudar os kanjis, seus significados e sonoridades; além de diversas outras funcionalidades do aplicativo. Desta forma, nosso projeto não somente contempla indivíduos interessados em aprender o japonês, mas também inova no mercado como uma ferramenta completamente otimizada em relação às já existentes. Por fim, um aplicativo voltado à aprendizagem de uma língua estrangeira oriental abre novos horizontes, não somente no campo educacional, mas também cultural, valorizando a cultura japonesa que existe em nosso país (O Censo de 2010 do IBGE apontou que quase 50 mil japoneses residiam no Brasil."), como também apreciar as diferentes culturas ao redor do mundo, fugindo de conceitos petrificados da sociedade como o eurocentrismo ou a hipervalorizarão da cultura Norte-Americana.
 
 # 📱 Mockup da interface
 
